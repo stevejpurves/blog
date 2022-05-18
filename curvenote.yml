@@ -1,0 +1,37 @@
+version: 1
+sync:
+  - id: DOHMeg040aVXqR51yjBy
+    folder: content/blog
+    link: https://curvenote.com/@stevejpurves/blog
+  - id: 1Bk7uPlcMuaTyKEshESj
+    folder: content/la-palma-earthquakes
+    link: https://curvenote.com/@stevejpurves/la-palma-earthquakes
+  - id: dvunfvCkr67W5YDXfxGE
+    folder: content/computational-finance
+    link: https://curvenote.com/@stevejpurves/computational-finance
+web:
+  name: Steve Purves
+  domains:
+    - stevejpurves.curve.space
+  logo: public/logo.svg
+  logoText: Steve Purves
+  twitter: stevejpurves
+  sections:
+    - title: The Blog
+      folder: content/blog
+    - title: La Palma Earthquakes
+      folder: content/la-palma-earthquakes
+    - title: Computational Finance
+      folder: content/computational-finance
+  nav:
+    - title: The Blog
+      url: /blog
+    - title: Projects
+      children:
+        - title: La Palma Seismicity
+          url: /la-palma-earthquakes
+        - title: Computational Finance
+          url: /computational-finance
+  actions:
+    - title: Learn More
+      url: https://docs.curvenote.com/web
