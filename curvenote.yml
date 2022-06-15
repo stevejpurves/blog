@@ -1,28 +1,21 @@
 version: 1
-sync:
-  - id: DOHMeg040aVXqR51yjBy
-    folder: content/blog
-    link: https://curvenote.com/@stevejpurves/blog
-  - id: 1Bk7uPlcMuaTyKEshESj
-    folder: content/la-palma-earthquakes
-    link: https://curvenote.com/@stevejpurves/la-palma-earthquakes
-  - id: dvunfvCkr67W5YDXfxGE
-    folder: content/computational-finance
-    link: https://curvenote.com/@stevejpurves/computational-finance
-web:
-  name: Steve Purves
+site:
+  title: Steve Purves
   domains:
     - stevejpurves.curve.space
+    - www.stevejpurves.com
   logo: public/logo.svg
   logoText: Steve Purves
   twitter: stevejpurves
-  sections:
-    - title: The Blog
-      folder: content/blog
-    - title: La Palma Earthquakes
-      folder: content/la-palma-earthquakes
-    - title: Computational Finance
-      folder: content/computational-finance
+  projects:
+    - path: content/blog
+      slug: blog
+    - path: content/la-palma-earthquakes
+      slug: la-palma-earthquakes
+    - path: content/computational-finance
+      slug: computational-finance
+    - path: content/geoscience
+      slug: geoscience
   nav:
     - title: The Blog
       url: /blog
@@ -32,6 +25,13 @@ web:
           url: /la-palma-earthquakes
         - title: Computational Finance
           url: /computational-finance
+        - title: Geoscience
+          url: /geoscience
   actions:
     - title: Learn More
       url: https://docs.curvenote.com/web
+project:
+  license:
+    content: CC-BY-4.0
+    code: MIT
+  open_access: true
