@@ -1,0 +1,104 @@
+{
+  "kbcwtuRi9E": {
+    "type": "table",
+    "children": [
+      {
+        "type": "tableRow",
+        "children": [
+          {
+            "type": "tableCell",
+            "colspan": 2,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "I work with scientists and engineers to create tools, technology, and software. I’ve spent many years working with geoscientists working in oil & gas, energy, and earth science but also with professionals working in finance, healthcare, and with various forms of enterprise software."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "In pretty much all my experience, collaboration and communication are difficult for people working in scientific and technical domains. Often a huge amount of effort is spent on creating presentations or documents whose content loses so much of the richness and utility of the underlying piece of scientific work — information gets collapsed into forms that are difficult to reference, search, provide machine access for, reuse and sometimes even to consume."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "tableRow",
+        "children": [
+          {
+            "type": "tableCell",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Now I work with "
+                  },
+                  {
+                    "type": "link",
+                    "url": "rowanc1.curve.space",
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Rowan"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": " and "
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://curvenote.com/why",
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "The Team"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": " at Curvenote — where we are building technology and tools for a different future in scientific publishing, communication, and progress."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableCell",
+            "children": [
+              {
+                "type": "container",
+                "kind": "figure",
+                "identifier": "b2qx8xkx8s",
+                "label": "B2qx8Xkx8S",
+                "enumerated": true,
+                "class": "align-center",
+                "children": [
+                  {
+                    "type": "image",
+                    "url": "images/DOHMeg040aVXqR51yjBy-KJfYbn12dxPL8SCYbxry-v1.png",
+                    "align": "center",
+                    "width": "70%"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+version: 1
+project:
+  title: Geoscience
+  remote: dvunfvCkr67W5YDXfxGE
+  link: https://curvenote.com/@stevejpurves/computational-finance
+  subject: Geoscience
+  venue:
+    title: Tutorials
+  license:
+    content: CC-BY-4.0
+    code: MIT
+  open_access: true
+  github: https://github.com/stevejpurves/seg_tutorial

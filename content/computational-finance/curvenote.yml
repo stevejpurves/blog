@@ -1,0 +1,10 @@
+version: 1
+project:
+  title: Computational Finance
+  remote: 1Bk7uPlcMuaTyKEshESj
+  link: https://curvenote.com/@stevejpurves/la-palma-earthquakes
+  subject: Computational Finance
+  license:
+    content: CC-BY-4.0
+    code: MIT
+  open_access: true

@@ -1,0 +1,8 @@
+version: 1
+project:
+  title: The Blog
+  remote: DOHMeg040aVXqR51yjBy
+  link: https://curvenote.com/@stevejpurves/blog
+  subject: Steve's Blog
+  license:
+    content: CC-BY-4.0

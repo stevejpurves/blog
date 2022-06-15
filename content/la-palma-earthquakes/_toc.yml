@@ -1,0 +1,19 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: paper
+parts:
+  - caption: Interactive
+    chapters:
+      - file: interactive-plots
+      - file: webinar
+  - caption: Notebooks
+    chapters:
+      - file: notebooks
+      - file: data-screening-pandas
+      - file: data-to-awkable
+      - file: visualizaton-figure-creation-seaborn
+      - file: interactive-timelines-altair
+      - file: plotly
+

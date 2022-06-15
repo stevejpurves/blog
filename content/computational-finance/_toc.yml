@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: modern-portfolio-theory
+chapters:
+  - file: mpt-ef-customer-report
+  - file: mpt-ef-internal-checkpoint
+  - file: ef-exploratory-nb
+  - file: ef-workflow-nb
+

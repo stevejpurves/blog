@@ -1,0 +1,21 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: the
+parts:
+  - caption: Timeline
+    chapters:
+      - file: building-data-driven-latex-templates-for-curvenote
+      - file: configurable-latex-exports
+      - file: getting-started-with-the-curvenote-cli
+      - file: exporting-to-docx
+      - file: collaboration
+      - file: curvenote-principles
+  - caption: Events
+    chapters:
+      - file: t21-version-control-for-scientists
+        sections:
+          - file: t21-tutorial-prerequisites
+      - file: t22-lightning-talk-n-things-i-learned-at-force-11
+
