@@ -1,15 +1,14 @@
 ---
 title: Internal Checkpoint
 description: A consise overview of key plots and steps to QC our outputs
-date: 2020-12-10T16:22:28.696Z
 authors:
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+  - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+    name: Steve Purves
     orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
-    affiliations: null
+    corresponding: false
+    roles: []
+    affiliations: []
+date: 2020-12-10T16:22:28.696Z
 name: mpt-ef-internal-checkpoint
 oxa: oxa:dvunfvCkr67W5YDXfxGE/0SzCqAXxMjoJgn1i4HUK
 ---
@@ -259,5 +258,6 @@ data.head()
 
 +++ {"oxa":"oxa:dvunfvCkr67W5YDXfxGE/CMNMC8tFRj0vck8H3Ffq.4"}
 
-
+```{mdast} mpt-ef-internal-checkpoint.mdast.json#SwcpBQX3Aw
+```
 

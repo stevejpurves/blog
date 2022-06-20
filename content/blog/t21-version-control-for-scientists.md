@@ -2,15 +2,14 @@
 title: T21 Version Control for Scientists
 description: Version Control for Scientists - some background and an overview of
   my Transform 2021 Tutorial
-date: 2021-04-19T09:38:19.728Z
 authors:
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+  - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+    name: Steve Purves
     orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
-    affiliations: null
+    corresponding: false
+    roles: []
+    affiliations: []
+date: 2021-04-19T09:38:19.728Z
 name: t21-version-control-for-scientists
 oxa: oxa:DOHMeg040aVXqR51yjBy/EWRLSoFX8YCKauhnw1YS
 ---
@@ -51,32 +50,32 @@ A few weeks ago I shared a[ Q&A on slido](https://admin.sli.do/event/lmmuqiwq/qu
 
 The responses reflect that people in swung range from git curious, through to practitioners who are looking to understand how to use git in a better way. I’ve used the responses to guide structuring the tutorial and I’ll aim to include the following.
 
-* Getting Started with Git
-* Different ways to use git
-  * Command Line
-  * VSCode
-  * Github
-* Working alone
-  * Common commands
-  * The stash
-  * Best Practices
-* Working with others
-  * Distributed repos
-  * Remotes
-  * Github
-    * Forks
-    * PRs
-  * CI/CD
-* Up close with specific Git Commands
-  * commit amend
-  * log
-  * merge
-  * rebase
-  * reset & revert
-* Advanced Topics
-  * Dealing with a Large Changeset & Atomic Commits
-  * Squash
-  * Editing the git log
+- Getting Started with Git
+- Different ways to use git
+  - Command Line
+  - VSCode
+  - Github
+- Working alone
+  - Common commands
+  - The stash
+  - Best Practices
+- Working with others
+  - Distributed repos
+  - Remotes
+  - Github
+    - Forks
+    - PRs
+  - CI/CD
+- Up close with specific Git Commands
+  - commit amend
+  - log
+  - merge
+  - rebase
+  - reset & revert
+- Advanced Topics
+  - Dealing with a Large Changeset & Atomic Commits
+  - Squash
+  - Editing the git log
 
 +++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/6EaNrFPnIMKjNnF8QXLf.2"}
 

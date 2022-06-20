@@ -1,13 +1,36 @@
 version: 1
 project:
-  title: La Palma Seismicity
-  remote: RkW3EUemHJbWfgejvqYu
-  link: https://curvenote.com/@stevejpurves/geoscience
-  subject: La Palma Eruption 2021
-  venue:
-    title: Analysis
+  title: La Palma Earthquakes
+  remote: 1Bk7uPlcMuaTyKEshESj
+  link: https://curvenote.com/@stevejpurves/la-palma-earthquakes
+  subject: Geoscience
   license:
-    content: CC-BY-4.0
+    content: CC-BY-SA-4.0
     code: MIT
   open_access: true
-  github: https://github.com/stevejpurves/ign-earthquake-data
+  description: >-
+    Analysis of seismic event data during the 2021 eruption of the Cumbra Vieja
+    volcano on the island of La Palma in the Canary Islands.
+  authors:
+    - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+      name: Steve Purves
+      orcid: 0000-0002-0760-5497
+      corresponding: true
+      email: steve@curvenote.com
+      roles:
+        - Conceptualization
+        - Investigation
+        - Methodology
+        - Writing – original draft
+      affiliations:
+        - Curvenote
+    - userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
+      name: Rowan Cockett
+      orcid: 0000-0002-7859-8394
+      corresponding: false
+      roles:
+        - Writing – review & editing
+        - Validation
+      affiliations:
+        - Curvenote
+  name: la-palma-earthquakes

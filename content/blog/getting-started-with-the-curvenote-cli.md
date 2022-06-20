@@ -1,15 +1,14 @@
 ---
 title: Getting Started with the Curvenote CLI
 description: ""
-date: 2021-04-30T13:44:07.350Z
 authors:
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+  - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+    name: Steve Purves
     orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
-    affiliations: null
+    corresponding: false
+    roles: []
+    affiliations: []
+date: 2021-04-30T13:44:07.350Z
 name: getting-started-with-the-curvenote-cli
 oxa: oxa:DOHMeg040aVXqR51yjBy/QVWrssqduv5N7Cvlvst1
 ---
@@ -31,8 +30,7 @@ This equips python coders with some wide ranging API access capabilities that we
 The CLI also allows anyone comfortable on the command line to run a small set of queries, which we’ll also be extending as we develop further.
 
 To get started with the cli and/or client, create your virtual environment as usual and install using `pip`.
-
-```null
+```
 $ mkdir working
 $ cd working
 $ python -m venv env

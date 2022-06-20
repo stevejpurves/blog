@@ -1,13 +1,30 @@
 version: 1
 project:
-  title: Geoscience
-  remote: dvunfvCkr67W5YDXfxGE
-  link: https://curvenote.com/@stevejpurves/computational-finance
-  subject: Geoscience
+  title: geoscience
+  remote: RkW3EUemHJbWfgejvqYu
+  link: https://curvenote.com/@stevejpurves/geoscience
+  subject: Geoscience Tutorials
   venue:
-    title: Tutorials
+    title: Analysis
   license:
-    content: CC-BY-4.0
+    content: CC-BY-SA-4.0
     code: MIT
   open_access: true
   github: https://github.com/stevejpurves/seg_tutorial
+  description: >-
+    Geoscience papers, articles and explorations with a slant towards seismic
+    and ML
+  authors:
+    - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+      name: Steve Purves
+      orcid: 0000-0002-0760-5497
+      corresponding: true
+      email: steve@curvenote.com
+      roles:
+        - Investigation
+        - Writing – original draft
+      affiliations:
+        - Curvenote
+  name: geoscience
+  doi: 10.1190/tle33101164.1
+  binder: https://mybinder.org/v2/gh/stevejpurves/seg_tutorial/HEAD

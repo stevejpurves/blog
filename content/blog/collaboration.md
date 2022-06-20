@@ -1,16 +1,16 @@
 ---
 title: Collaboration in Scientific Writing
 description: ""
-date: 2021-09-27T11:21:55.353Z
 authors:
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+  - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+    name: Steve Purves
     orcid: 0000-0002-0760-5497
     corresponding: true
     email: steve@curvenote.com
-    roles: null
+    roles: []
     affiliations:
       - Curvenote
+date: 2021-09-27T11:21:55.353Z
 name: collaboration
 oxa: oxa:DOHMeg040aVXqR51yjBy/9xm9sJTC6kGhmHgyydkh
 ---
@@ -35,9 +35,9 @@ Some collaboration scenarios like close real-time collaboration, demand signific
 
 In this post, we talk about some distinct modes of collaboration and the technology and software features that support/enable them. We’ll focus on three modes:
 
-* Gathering feedback - asynchronous, broad & external collaboration
-* Asynchronous co-authoring and review
-* Real-time pairing / simultaneous editing
+- Gathering feedback - asynchronous, broad & external collaboration
+- Asynchronous co-authoring and review
+- Real-time pairing / simultaneous editing
 
 +++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/c6474c6uJddODYnA6xqH.7"}
 
@@ -53,9 +53,9 @@ Processing that feedback and incorporating it into the next draft can often requ
 
 Two simple features that are taken for granted in so many apps we use today (just think about how social media works) can completely change this workflow.
 
-* *Create drafts in a shared environment* - Google Docs is a go-to workaround for many people as collaboration is good, but it lacks support for scientific writing, which is [where Curvenote excels](https://curvenote.com/@curvenote/getting-started/writing-with-curvenote).
-* *Share your supporting information* - To get useful and constructive feedback you need to formulate your “Ask” and provide those notes along with your manuscript. Curvenote projects let you [give your collaborators access](https://curvenote.com/@curvenote/getting-started/collaboration) to multiple documents, such as guidance notes, manuscripts, and supporting materials (e.g., Jupyter notebooks), so everyone is working on the same page, in the same place.
-* *In-place commenting* - Threaded commenting in a manuscript allows feedback to be provided and conversations to happen in-place and right beside the content it refers to. This is the ideal context for feedback; it encourages discussions over duplication and collaborators also get the chance to interact. A solid real-time commenting system with threads, notifications, and resolutions is of real benefit and makes it much easier for the author to gather and incorporate feedback. Everything in one place, everything in context.
+- *Create drafts in a shared environment* - Google Docs is a go-to workaround for many people as collaboration is good, but it lacks support for scientific writing, which is [where Curvenote excels](https://curvenote.com/@curvenote/getting-started/writing-with-curvenote).
+- *Share your supporting information* - To get useful and constructive feedback you need to formulate your “Ask” and provide those notes along with your manuscript. Curvenote projects let you [give your collaborators access](https://curvenote.com/@curvenote/getting-started/collaboration) to multiple documents, such as guidance notes, manuscripts, and supporting materials (e.g., Jupyter notebooks), so everyone is working on the same page, in the same place.
+- *In-place commenting* - Threaded commenting in a manuscript allows feedback to be provided and conversations to happen in-place and right beside the content it refers to. This is the ideal context for feedback; it encourages discussions over duplication and collaborators also get the chance to interact. A solid real-time commenting system with threads, notifications, and resolutions is of real benefit and makes it much easier for the author to gather and incorporate feedback. Everything in one place, everything in context.
 
   ```{figure} images/DOHMeg040aVXqR51yjBy-5ETK8t8lR83uM6yQp68A-v2.gif
   :name: a7ace020

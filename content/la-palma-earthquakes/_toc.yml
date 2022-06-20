@@ -16,4 +16,7 @@ parts:
       - file: visualizaton-figure-creation-seaborn
       - file: interactive-timelines-altair
       - file: plotly
+      - file: screening-update
+      - file: update-compare
+      - file: update-altair
 

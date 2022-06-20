@@ -1,15 +1,14 @@
 ---
 title: T21 Tutorial Prerequisites
 description: ""
-date: 2021-04-19T10:12:25.209Z
 authors:
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+  - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+    name: Steve Purves
     orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
-    affiliations: null
+    corresponding: false
+    roles: []
+    affiliations: []
+date: 2021-04-19T10:12:25.209Z
 name: t21-tutorial-prerequisites
 oxa: oxa:DOHMeg040aVXqR51yjBy/Cdn2dvJB9QWFzAZ0BbMe
 ---
@@ -20,8 +19,8 @@ oxa: oxa:DOHMeg040aVXqR51yjBy/Cdn2dvJB9QWFzAZ0BbMe
 
 Key information and links:
 
-* [Tutorial Live Stream on Youtube](https://www.youtube.com/watch?v=S4uqsbV-gxY)
-* [Tutorial Channel on Slack](https://swung.slack.com/archives/C01RGGXNR9P)
+- [Tutorial Live Stream on Youtube](https://www.youtube.com/watch?v=S4uqsbV-gxY)
+- [Tutorial Channel on Slack](https://swung.slack.com/archives/C01RGGXNR9P)
 
 +++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/mNo3VGcm50rGkEwTUebU.2"}
 

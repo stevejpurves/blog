@@ -1,10 +1,26 @@
 version: 1
 project:
   title: Computational Finance
-  remote: 1Bk7uPlcMuaTyKEshESj
-  link: https://curvenote.com/@stevejpurves/la-palma-earthquakes
+  remote: dvunfvCkr67W5YDXfxGE
+  link: https://curvenote.com/@stevejpurves/computational-finance
   subject: Computational Finance
+  venue:
+    title: Use Case
   license:
-    content: CC-BY-4.0
+    content: CC-BY-SA-4.0
     code: MIT
   open_access: true
+  github: https://github.com/stevejpurves/seg_tutorial
+  description: >-
+    Sets of notebooks exploring using Curvenote in compuational finance
+    applications
+  authors:
+    - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+      name: Steve Purves
+      orcid: 0000-0002-0760-5497
+      corresponding: true
+      email: steve@curvenote.com
+      roles: []
+      affiliations:
+        - Curvenore
+  name: computational-finance

@@ -2,17 +2,6 @@
 title: Phase and the Hilbert Transform
 description: ""
 date: 2022-01-14T10:26:28.490Z
-authors:
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
-    orcid: 0000-0002-0760-5497
-    corresponding: true
-    email: steve@curvenote.com
-    roles:
-      - Investigation
-      - Writing – original draft
-    affiliations:
-      - Curvenote
 name: phase-and-the-hilbert-transform
 oxa: oxa:RkW3EUemHJbWfgejvqYu/iPPzWDPvyJXSUaUvE4TT
 ---
@@ -25,7 +14,7 @@ Phase is a useful underlying property of the analytic trace model of seismic dat
 
 # Introduction
 
-The concept of phase permeates seismic data processing and signal processing in general, but it can be awkward to understand, and manipulating it directly can lead to surprising results. It doesn't help that the word phase is used to mean a variety of things, depending on whether we refer to the propagating wavelet, the observed wavelet, post-stack seismic attributes, or an entire seismic data set. Several publications have discussed the concepts and ambiguities {cite:p}`Chant1992Time, Roden1999significance, Liner2002Phase`.
+The concept of phase permeates seismic data processing and signal processing in general, but it can be awkward to understand, and manipulating it directly can lead to surprising results. It doesn't help that the word phase is used to mean a variety of things, depending on whether we refer to the propagating wavelet, the observed wavelet, post-stack seismic attributes, or an entire seismic data set. Several publications have discussed the concepts and ambiguities {cite:p}`Chant1992Time; Roden1999significance; Liner2002Phase`.
 
 +++ {"oxa":"oxa:RkW3EUemHJbWfgejvqYu/ihBcaiMuiszbc8xSI8bd.18"}
 

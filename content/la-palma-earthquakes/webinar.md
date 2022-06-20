@@ -1,15 +1,14 @@
 ---
 title: Webinar Recording
 description: ""
-date: 2021-11-11T22:12:18.401Z
 authors:
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+  - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+    name: Steve Purves
     orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
-    affiliations: null
+    corresponding: false
+    roles: []
+    affiliations: []
+date: 2021-11-11T22:12:18.401Z
 name: webinar
 oxa: oxa:1Bk7uPlcMuaTyKEshESj/smCteUM2sPpNVpkLlSoo
 ---

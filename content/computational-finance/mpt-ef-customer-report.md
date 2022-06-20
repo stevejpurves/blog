@@ -2,15 +2,6 @@
 title: Customer Report
 description: ""
 date: 2020-12-10T16:29:02.858Z
-authors:
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
-    orcid: 0000-0002-0760-5497
-    corresponding: true
-    email: steve@curvenote.com
-    roles: null
-    affiliations:
-      - Curvenore
 name: mpt-ef-customer-report
 oxa: oxa:dvunfvCkr67W5YDXfxGE/s4nc69jx3zJKo4LQz3Tk
 ---
@@ -19,14 +10,14 @@ oxa: oxa:dvunfvCkr67W5YDXfxGE/s4nc69jx3zJKo4LQz3Tk
 
 ## Analysis Headlines
 
-* Lowest risk single stock is Google at around 0.18
-* Highest risk single stock is Amazon at around 0.28
-  * Minimum volatility portfolio risk/return (0.16/0.22)
-  * Optimal portfolio risk/return (0.18/0.3)
+- Lowest risk single stock is Google at around 0.18
+- Highest risk single stock is Amazon at around 0.28
+  - Minimum volatility portfolio risk/return (0.16/0.22)
+  - Optimal portfolio risk/return (0.18/0.3)
 
 ### Recommendations
 
-* Assume minimum volatility position for 6 months
+- Assume minimum volatility position for 6 months
 
 +++ {"oxa":"oxa:dvunfvCkr67W5YDXfxGE/fmmKpWJYXtyox5yM0Kbd.2"}
 
@@ -93,7 +84,8 @@ The following plot shows the results of our analysis for 5000 randomized portfol
 
 +++ {"oxa":"oxa:dvunfvCkr67W5YDXfxGE/CMNMC8tFRj0vck8H3Ffq.4"}
 
-
+```{mdast} mpt-ef-customer-report.mdast.json#RTLJiTLuyr
+```
 
 +++ {"oxa":"oxa:dvunfvCkr67W5YDXfxGE/d17hnyqXJiXXTowmOG2m.2"}
 

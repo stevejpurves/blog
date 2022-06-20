@@ -2,34 +2,11 @@
 title: "Article: La Palma Seismicity 2021"
 description: ""
 date: 2021-11-10T11:21:14.856Z
-authors:
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
-    orcid: 0000-0002-0760-5497
-    corresponding: true
-    email: steve@curvenote.com
-    roles:
-      - Conceptualization
-      - Investigation
-      - Methodology
-      - Writing – original draft
-    affiliations:
-      - Curvenote
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
-    orcid: 0000-0002-7859-8394
-    corresponding: null
-    email: null
-    roles:
-      - Writing – review & editing
-      - Validation
-    affiliations:
-      - Curvenote
 name: paper
 oxa: oxa:1Bk7uPlcMuaTyKEshESj/7lITJLg3LX0T0h3VVmAp
 ---
 
-+++ {"oxa":"oxa:1Bk7uPlcMuaTyKEshESj/pUjKKutoZngkdiA7AaeU.6"}
++++ {"oxa":"oxa:1Bk7uPlcMuaTyKEshESj/pUjKKutoZngkdiA7AaeU.7"}
 
 In September 2021, a significant jump in seismic activity on the island of La Palma (Canary Islands, Spain) signalled the start of a volcanic crisis that still continues at the time of writing. Earthquake data is continually collected and published by the Instituto Geográphico Nacional (IGN). We have created an accessible dataset from this and completed preliminary data analysis which shows seismicity originating at two distinct depths, consistent with the model of a two reservoir system feeding the currently very active volcano.
 

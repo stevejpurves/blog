@@ -1,15 +1,14 @@
 ---
 title: How to export to PDF & LaTeX using Curvenote
 description: ""
-date: 2021-10-12T10:47:22.432Z
 authors:
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+  - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+    name: Steve Purves
     orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
-    affiliations: null
+    corresponding: false
+    roles: []
+    affiliations: []
+date: 2021-10-12T10:47:22.432Z
 name: configurable-latex-exports
 oxa: oxa:DOHMeg040aVXqR51yjBy/xHpyIUkwwGCC3r5znNoF
 ---

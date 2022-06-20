@@ -1,15 +1,14 @@
 ---
 title: T22 Lightning Talk - N things I learned at Force 11
 description: ""
-date: 2022-04-28T10:35:51.218Z
 authors:
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+  - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+    name: Steve Purves
     orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
-    affiliations: null
+    corresponding: false
+    roles: []
+    affiliations: []
+date: 2022-04-28T10:35:51.218Z
 name: t22-lightning-talk-n-things-i-learned-at-force-11
 oxa: oxa:DOHMeg040aVXqR51yjBy/831AENjEh7233dFg6Z3W
 ---
@@ -73,7 +72,7 @@ Find out more at: <https://casrai.org/credit/>
 
 ### Citation Files
 
-* CFF - [Citation File Format](https://citation-file-format.github.io/#:\~:text=cff%20files%20are%20plain%20text,to%20correctly%20cite%20their%20software.&text=The%20format%20of%20CITATION.,Citation%20File%20Format%20(CFF).)
+- CFF - [Citation File Format](https://citation-file-format.github.io/#:\~:text=cff%20files%20are%20plain%20text,to%20correctly%20cite%20their%20software.&text=The%20format%20of%20CITATION.,Citation%20File%20Format%20(CFF).)
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-1GaceoZTA0cTGbcR4lfx-v1.png
 :name: mmr9CuVJI8
@@ -81,7 +80,7 @@ Find out more at: <https://casrai.org/credit/>
 It’s just some YAML, ftw!
 ```
 
-* CFFINIT <https://citation-file-format.github.io/cff-initializer-javascript/#/>
+- CFFINIT <https://citation-file-format.github.io/cff-initializer-javascript/#/>
 
 ---
 
@@ -127,10 +126,10 @@ Find out more: <https://docs.github.com/en/repositories/archiving-a-github-repos
 :name: LhmIMfG9WG
 ```
 
-* API access launched
-* Website in Sumer 2022
-* Find out more: <https://openalex.org/>
-* From the same non-profit group as [Unsub](https://unsub.org/) and [Unpaywall](https://unpaywall.org/)
+- API access launched
+- Website in Sumer 2022
+- Find out more: <https://openalex.org/>
+- From the same non-profit group as [Unsub](https://unsub.org/) and [Unpaywall](https://unpaywall.org/)
 
 ---
 

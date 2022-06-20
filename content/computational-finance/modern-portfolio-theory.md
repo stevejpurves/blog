@@ -2,15 +2,6 @@
 title: Efficient Frontier (MPT)
 description: Overview of Modren Portfolio Theory
 date: 2020-12-10T16:29:29.974Z
-authors:
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
-    orcid: 0000-0002-0760-5497
-    corresponding: true
-    email: steve@curvenote.com
-    roles: null
-    affiliations:
-      - Curvenore
 name: modern-portfolio-theory
 oxa: oxa:dvunfvCkr67W5YDXfxGE/vY0gA6N7UwELs2oEHKeu
 ---
@@ -30,9 +21,9 @@ This is done using the Efficient Frontier methodology.
 ````{important}
 There are 3 articles/notebooks here:
 
-* The final output is a [customer report](https://curvenote.com/oxa:dvunfvCkr67W5YDXfxGE/s4nc69jx3zJKo4LQz3Tk) with a recommendation and interactive chart
-* An [internal report](https://curvenote.com/oxa:dvunfvCkr67W5YDXfxGE/0SzCqAXxMjoJgn1i4HUK) from our team that was reviewed before preparing our customer recommendation
-* A copy of [the notebook](https://curvenote.com/oxa:dvunfvCkr67W5YDXfxGE/ztSGrPdIpp9w4bJ0m2Vg) used to develop the workflow with supporting analysis and theory
+- The final output is a [customer report](https://curvenote.com/oxa:dvunfvCkr67W5YDXfxGE/s4nc69jx3zJKo4LQz3Tk) with a recommendation and interactive chart
+- An [internal report](https://curvenote.com/oxa:dvunfvCkr67W5YDXfxGE/0SzCqAXxMjoJgn1i4HUK) from our team that was reviewed before preparing our customer recommendation
+- A copy of [the notebook](https://curvenote.com/oxa:dvunfvCkr67W5YDXfxGE/ztSGrPdIpp9w4bJ0m2Vg) used to develop the workflow with supporting analysis and theory
 
 ````
 

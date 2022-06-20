@@ -1,15 +1,14 @@
 ---
 title: Curvenote Microsoft Word Export
 description: ""
-date: 2021-10-21T17:11:50.605Z
 authors:
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+  - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+    name: Steve Purves
     orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
-    affiliations: null
+    corresponding: false
+    roles: []
+    affiliations: []
+date: 2021-10-21T17:11:50.605Z
 name: exporting-to-docx
 oxa: oxa:DOHMeg040aVXqR51yjBy/544kxF9tADUPDVyMYwS2
 ---

@@ -2,22 +2,20 @@
 title: Curvenote Principles
 description: The dream and principles behind out building of the google docs for
   science and engineering.
-date: 2021-02-20T13:59:50.127Z
 authors:
-  - name: Steve Purves
-    userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+  - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+    name: Steve Purves
     orcid: 0000-0002-0760-5497
-    corresponding: null
-    email: null
-    roles: null
-    affiliations: null
-  - name: Rowan Cockett
-    userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
+    corresponding: false
+    roles: []
+    affiliations: []
+  - userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
+    name: Rowan Cockett
     orcid: 0000-0002-7859-8394
-    corresponding: null
-    email: null
-    roles: null
-    affiliations: null
+    corresponding: false
+    roles: []
+    affiliations: []
+date: 2021-02-20T13:59:50.127Z
 name: curvenote-principles
 oxa: oxa:DOHMeg040aVXqR51yjBy/cBTjK8cKeH2Vdk8GDRuU
 ---
