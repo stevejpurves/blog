@@ -28,7 +28,7 @@ Curvenote is a for-profit company with a core mission to promote and develop tec
 
 > The rapid progress and infrastructure that open-science requires, will require efforts and input from all of these areas. Open-science and open-source technology cannot be driven by altruism, grants or volunteers alone.
 
-The current business practices of many incumbent publishers are not aligned to the principles of open-science (i.e. pay to publish or pay for access), however, there is ample space for businesses that *do* align to these principles.
+The current business practices of many incumbent publishers are not aligned to the principles of open-science (i.e. pay to publish or pay for access), however, there is ample space for businesses that _do_ align to these principles.
 
 Curvenote’s business model **must be aligned to these community goals** - such that if Curvenote does well, the community improves; collaboration improves; reproducibility improves; computational access and literacy improves; and there is more accessible, open, and interactive content in the world. Specifically, this must be aligned to:
 
@@ -45,13 +45,13 @@ Curvenote (1) operates with open-core components (e.g. our editor, components, s
 
 ## Current Contributions
 
-We are advocates and participants in open-source ecosystems, communities, and technologies. Our open-source contributions are available at [curvenote.dev](curvenote.dev) and on [github.com/curvenote](github.com/curvenote). [Curvenote.dev](curvenote.dev) is a collection of resources to provide open-source tools that promote and enable interactive scientific writing, reactive documents and explorable explanations. All libraries are released under the **permissive MIT license**, and we encourage community contributions.
+We are advocates and participants in open-source ecosystems, communities, and technologies. Our open-source contributions are available at [curvenote.dev](https://curvenote.dev) and on [github.com/curvenote](https://github.com/curvenote). [Curvenote.dev](https://curvenote.dev) is a collection of resources to provide open-source tools that promote and enable interactive scientific writing, reactive documents and explorable explanations. All libraries are released under the **permissive MIT license**, and we encourage community contributions.
 
 ### Integrating and building on Jupyter & JupyterBook
 
-Curvenote integrates heavily with Jupyter and builds on its data-structures, interfaces, and protocols. We are committed to integrating, interoperating, and building *with* this open-source community. Our current efforts are focused on integrating with [JupyterBook](https://jupyterbook.org/), a static website generator built out of Jupyter and the Sphinx documentation ecosystem. We are helping to build open-infrastructure in [parsers/schemas](https://github.com/executablebooks/markdown-it-myst) and components that improve the editing and interactivity experience in JupyterBook, Jupyter as well as in Curvenote.
+Curvenote integrates heavily with Jupyter and builds on its data-structures, interfaces, and protocols. We are committed to integrating, interoperating, and building _with_ this open-source community. Our current efforts are focused on integrating with [JupyterBook](https://jupyterbook.org/), a static website generator built out of Jupyter and the Sphinx documentation ecosystem. We are helping to build open-infrastructure in [parsers/schemas](https://github.com/executablebooks/markdown-it-myst) and components that improve the editing and interactivity experience in JupyterBook, Jupyter as well as in Curvenote.
 
-Version control, diffing, sharing & re-using content, and portability were all [identified as major pain points by the Jupyter community in their 2020 survey](https://layne-bucket.s3.amazonaws.com/all_responses.html). One approach, that many companies take, is to develop proprietary notebook *clones* with this functionality; these often do not directly contribute back to nor improve existing open-source projects. Instead, our approach is to extend functionality, release open-source libraries and components where appropriate (e.g. [commenting components](https://curvenote.dev/sidenotes)) as well as listen, engage in conversation, and develop relationships with contributors in the ecosystem.
+Version control, diffing, sharing & re-using content, and portability were all [identified as major pain points by the Jupyter community in their 2020 survey](https://layne-bucket.s3.amazonaws.com/all_responses.html). One approach, that many companies take, is to develop proprietary notebook _clones_ with this functionality; these often do not directly contribute back to nor improve existing open-source projects. Instead, our approach is to extend functionality, release open-source libraries and components where appropriate (e.g. [commenting components](https://curvenote.dev/sidenotes)) as well as listen, engage in conversation, and develop relationships with contributors in the ecosystem.
 
 +++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/NLGv2fI9maYIuC9GnbCX.3"}
 
@@ -74,4 +74,3 @@ After [Steve](/@stevejpurves) joined in July 2020, we applied and were accepted 
 YCombinator provides initial investment, a startup community, a period of focussed growth, (less sleep), and an excellent opportunity to raise further investment and reach a scale where we can help to make an outsized impact on science communication.
 
 Our mission is to modernize how researchers collaborate and share their work — to accelerate discovery by enabling connections.
-

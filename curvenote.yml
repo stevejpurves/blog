@@ -5,7 +5,7 @@ site:
     - stevejpurves.curve.space
     - www.stevejpurves.com
   logo: public/logo.svg
-  logoText: Steve Purves
+  logo_text: Steve Purves
   twitter: stevejpurves
   projects:
     - path: content/blog
