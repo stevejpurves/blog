@@ -1,6 +1,6 @@
 ---
 title: Getting Started with the Curvenote CLI
-description: ""
+description: ''
 authors:
   - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
     name: Steve Purves
@@ -8,12 +8,24 @@ authors:
     corresponding: false
     roles: []
     affiliations: []
-date: 2021-04-30T13:44:07.350Z
+date: '2021-04-30T13:44:07.350Z'
 name: getting-started-with-the-curvenote-cli
 oxa: oxa:DOHMeg040aVXqR51yjBy/QVWrssqduv5N7Cvlvst1
+tags: []
 ---
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/C6Uc3CcwJ9Em4172QEJR.2"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/v7sVeNGXBiZgMu1mOi8o.1","tags":[]}
+
+````{danger}
+**Note**
+
+This article is out of date, please see the updated [Curvenote documentation here](https://docs.curvenote.com/cli) or the new Client library here:
+
+<https://github.com/curvenote/curvenotejs>
+
+````
+
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/C6Uc3CcwJ9Em4172QEJR.2","tags":[]}
 
 ## Curvenote is on PyPi 🐍
 
@@ -23,6 +35,8 @@ Find it at: <https://pypi.org/project/curvenote/>
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-whc7KFWpINYGFQS0eURD-v1.png
 :name: 85d242e1
+:align: center
+:width: 70%
 ```
 
 This equips python coders with some wide ranging API access capabilities that we will continue to extend.
@@ -46,7 +60,7 @@ Curvenote CLI Version 0.0.10
 :width: 70%
 ```
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/h2IySgdyOMbmTB2prlxG.1"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/h2IySgdyOMbmTB2prlxG.1","tags":[]}
 
 ## API Access
 
@@ -58,15 +72,9 @@ Right now there is now way to get a long lived API key from Curvenote (Coming So
 :width: 70%
 ```
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/3jprBzXa7p5MvWZHBkyH.1"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/3jprBzXa7p5MvWZHBkyH.2","tags":[]}
 
 ## Downloading Latex
 
 One of the most useful CLI functions right now is the `pull-as-latex` command which let’s you download any article as a local LaTeX project which you can tweak and build locally.
-
-```{iframe} https://www.loom.com/embed/da006c7788c44a6281fd4b91e83300ac
-:label: XpInezXsAO
-:align: center
-:width: 70%
-```
 

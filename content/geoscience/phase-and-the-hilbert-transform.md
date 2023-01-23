@@ -1,9 +1,13 @@
 ---
 title: Phase and the Hilbert Transform
-description: ""
-date: 2022-01-14T10:26:28.490Z
+description: ''
+date: '2022-01-14T10:26:28.490Z'
 name: phase-and-the-hilbert-transform
 oxa: oxa:RkW3EUemHJbWfgejvqYu/iPPzWDPvyJXSUaUvE4TT
+tags:
+  - seismic
+  - interpretation
+  - phase-analysis
 ---
 
 +++ {"oxa":"oxa:RkW3EUemHJbWfgejvqYu/22c85AAuvCsfggYbOLl8.1"}
@@ -18,10 +22,7 @@ The concept of phase permeates seismic data processing and signal processing in 
 
 +++ {"oxa":"oxa:RkW3EUemHJbWfgejvqYu/ihBcaiMuiszbc8xSI8bd.18"}
 
-```{figure} images/RkW3EUemHJbWfgejvqYu-ihBcaiMuiszbc8xSI8bd-v18.png
-:name: rZM72vJAR8
-
-Partial seismic crossline section from the Penobscot 3D survey between 2000m - 3000m with vertical line marking the extracted trace of interest.
+```{mdast} phase-and-the-hilbert-transform.mdast.json#GxHu8oyIsl
 ```
 
 +++ {"oxa":"oxa:RkW3EUemHJbWfgejvqYu/Yfh6SnLT7mnAc360vqoz.3"}
@@ -68,7 +69,7 @@ We see that multiplication by $i$ alone, as in the equation above, is equivalent
 
 +++ {"oxa":"oxa:RkW3EUemHJbWfgejvqYu/giMLopVlG5ZZBxxiZSwS.1"}
 
-So, we can generalize the definition of the Hilbert above to produce a phase shift to any angle, $\alpha$:
+So, we can generalize the definition of the Hilbert above to produce a phase shift to any angle, $\alpha$\:
 
 $$  \sigma_{n}(\omega)=\left\{\begin{array}{l}\mathrm{e}^{i \alpha} \text { for } \omega<0 \\ 0 \text { for } \omega=0 \\ \mathrm{e}^{-i \alpha} \text { for } \omega>0\end{array}\right.$$
 
@@ -143,10 +144,7 @@ See the accompanying notebook for full plotting code. A section of this trace is
 
 +++ {"oxa":"oxa:RkW3EUemHJbWfgejvqYu/VcYeNrFMSYtf8Nu8DrSv.1"}
 
-```{figure} images/RkW3EUemHJbWfgejvqYu-VcYeNrFMSYtf8Nu8DrSv-v1.png
-:name: ascwgusnZu
-
-A part of the trace highlighted in {numref}`Figure %s <rZM72vJAR8>` along with computed seismic attributes.
+```{mdast} phase-and-the-hilbert-transform.mdast.json#USQTSmhusq
 ```
 
 +++ {"oxa":"oxa:RkW3EUemHJbWfgejvqYu/K8iy5N9He8cmGsZOBLm6.1"}
@@ -155,10 +153,7 @@ A part of the trace highlighted in {numref}`Figure %s <rZM72vJAR8>` along with c
 
 +++ {"oxa":"oxa:RkW3EUemHJbWfgejvqYu/1UA1dMMyGLBD6TXFEQQP.1"}
 
-```{figure} images/RkW3EUemHJbWfgejvqYu-1UA1dMMyGLBD6TXFEQQP-v1.png
-:name: pH5UdjSONn
-
-The Hilbert Transform and Envelope and Phase attributes computed on the section shown in {numref}`Figure %s <rZM72vJAR8>`
+```{mdast} phase-and-the-hilbert-transform.mdast.json#tU6SUcixAz
 ```
 
 +++ {"oxa":"oxa:RkW3EUemHJbWfgejvqYu/KTOcB686QEuuBqlVZZyK.1"}
@@ -171,10 +166,7 @@ The principle that {cite:t}`Roden1999significance` apply is that at strong refle
 
 +++ {"oxa":"oxa:RkW3EUemHJbWfgejvqYu/tIrSeE4eYvSa9LqwFLrq.1"}
 
-```{figure} images/RkW3EUemHJbWfgejvqYu-tIrSeE4eYvSa9LqwFLrq-v1.png
-:name: HHx7uissTU
-
-(top) The trace previously shown in Figure 1, with envelope peaks marked as impulses. (bottom) the idealized and actual phase of the signal at each envelope peak. Phase errors at strong envelope peaks are initiators of residual phase error in our data.
+```{mdast} phase-and-the-hilbert-transform.mdast.json#PtUIJJZ8SQ
 ```
 
 +++ {"oxa":"oxa:RkW3EUemHJbWfgejvqYu/6awl5bcQccewlnHCJqnZ.1"}
@@ -187,10 +179,7 @@ We can also look at this phase error at envelope peaks across our dataset as sho
 
 +++ {"oxa":"oxa:RkW3EUemHJbWfgejvqYu/nntW22fEZdfrz19UE7Ma.1"}
 
-```{figure} images/RkW3EUemHJbWfgejvqYu-nntW22fEZdfrz19UE7Ma-v1.png
-:name: mMSkebgp6O
-
-phase error computed at peaks of the Envelope function on each trace.
+```{mdast} phase-and-the-hilbert-transform.mdast.json#aNuo8HonAJ
 ```
 
 +++ {"oxa":"oxa:RkW3EUemHJbWfgejvqYu/OQu6iWbNaLDqkop1fiiq.1"}
@@ -203,6 +192,8 @@ The official version of this tutorial was published in the SEG's Leading Edge Ma
 
 ```{figure} images/RkW3EUemHJbWfgejvqYu-O6zbn8zq98uZhkHo49a7-v1.jpg
 :name: ffA6Fph1zW
+:align: center
+:width: 30%
 ```
 
 ````{important}

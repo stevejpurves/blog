@@ -1,5 +1,18 @@
 {
-  "RTLJiTLuyr": {
+  "ZqdAsIERz5": {
+    "type": "output",
+    "data": [
+      {
+        "output_type": "display_data",
+        "data": {
+          "text/html": "\n        <div>\n            <h3>Optimal Portfolio Allocations</h3>\n            <table>\n                <thead>\n                    <th>Description</th>\n                    <th>Max Sharpe Ratio</th>\n                    <th>Minimum Volatility</th>\n                </thead>\n                <tbody><tr><td>Annualised Return</td><td>0.3</td><td>0.22</td></tr><tr><td>Annualised Volatility</td><td>0.18</td><td>0.16</td></tr><tr><td>Allocations</td><td></td><td></td></tr><tr><td>AAPL</td><td>44.37</td><td>33.2</td></tr><tr><td>AMZN</td><td>31.27</td><td>0.34</td></tr><tr><td>FB</td><td>24.29</td><td>6.62</td></tr><tr><td>GOOGL</td><td>0.07</td><td>59.84</td></tr>\n                </tbody>\n            </table>\n        </div>",
+          "text/plain": "<IPython.core.display.HTML object>"
+        },
+        "metadata": {}
+      }
+    ]
+  },
+  "B4KJLZyqRg": {
     "type": "output",
     "data": [
       {

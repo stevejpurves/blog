@@ -6,6 +6,8 @@ root: the
 parts:
   - caption: Timeline
     chapters:
+      - file: debugging-ipywidgets-in-a-jupyter-notebook
+      - file: understanding-ipywidgets-versioning
       - file: building-data-driven-latex-templates-for-curvenote
       - file: configurable-latex-exports
       - file: getting-started-with-the-curvenote-cli

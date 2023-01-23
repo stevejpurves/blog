@@ -7,3 +7,14 @@ project:
   license: CC-BY-4.0
   description: Steve's blog - thoughts, musings, facts and randomness
   name: blog
+  authors:
+    - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
+      name: Steve Purves
+      orcid: 0000-0002-0760-5497
+      corresponding: true
+      email: stevejpurves@gmail.com
+      roles:
+        - Conceptualization
+        - Writing – original draft
+      affiliations:
+        - Curvenote

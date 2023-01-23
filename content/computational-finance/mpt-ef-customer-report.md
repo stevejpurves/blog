@@ -1,9 +1,11 @@
 ---
 title: Customer Report
-description: ""
-date: 2020-12-10T16:29:02.858Z
+description: ''
+date: '2020-12-10T16:29:02.858Z'
 name: mpt-ef-customer-report
 oxa: oxa:dvunfvCkr67W5YDXfxGE/s4nc69jx3zJKo4LQz3Tk
+tags: []
+thumbnail: thumbnails/mpt-ef-customer-report.png
 ---
 
 +++ {"oxa":"oxa:dvunfvCkr67W5YDXfxGE/JTVxbzGrD9HlAsJ8HFNp.9"}
@@ -21,60 +23,8 @@ oxa: oxa:dvunfvCkr67W5YDXfxGE/s4nc69jx3zJKo4LQz3Tk
 
 +++ {"oxa":"oxa:dvunfvCkr67W5YDXfxGE/fmmKpWJYXtyox5yM0Kbd.2"}
 
-### Optimal Portfolio Allocations
-
-~~~{list-table}
-:header-rows: 1
-
-* - Description
-
-  - Max Sharpe Ratio
-
-  - Minimum Volatility
-
-* - Annualised Return
-
-  - 0.3
-
-  - 0.22
-
-* - Annualised Volatility
-
-  - 0.18
-
-  - 0.16
-
-* - Allocations
-
-  - 
-
-  - 
-
-* - AAPL
-
-  - 44.37
-
-  - 33.2
-
-* - AMZN
-
-  - 31.27
-
-  - 0.34
-
-* - FB
-
-  - 24.29
-
-  - 6.62
-
-* - GOOGL
-
-  - 0.07
-
-  - 59.84
-
-~~~
+```{mdast} mpt-ef-customer-report.mdast.json#ZqdAsIERz5
+```
 
 +++ {"oxa":"oxa:dvunfvCkr67W5YDXfxGE/n6iQ4F3HgIaKqfGj4rHP.1"}
 
@@ -84,7 +34,7 @@ The following plot shows the results of our analysis for 5000 randomized portfol
 
 +++ {"oxa":"oxa:dvunfvCkr67W5YDXfxGE/CMNMC8tFRj0vck8H3Ffq.4"}
 
-```{mdast} mpt-ef-customer-report.mdast.json#RTLJiTLuyr
+```{mdast} mpt-ef-customer-report.mdast.json#B4KJLZyqRg
 ```
 
 +++ {"oxa":"oxa:dvunfvCkr67W5YDXfxGE/d17hnyqXJiXXTowmOG2m.2"}

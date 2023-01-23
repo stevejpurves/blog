@@ -1,30 +1,39 @@
 ---
-title: "Article: La Palma Seismicity 2021"
-description: ""
-date: 2021-11-10T11:21:14.856Z
+title: 'Article: La Palma Seismicity 2021'
+description: ''
+date: '2021-11-10T11:21:14.856Z'
 name: paper
+subject: Geoscience
 oxa: oxa:1Bk7uPlcMuaTyKEshESj/7lITJLg3LX0T0h3VVmAp
+subtitle: An analysis of earthquake swarms in relation to the 2021 eruption
+tags:
+  - volcano
+  - seismicity
+  - la-palma
+thumbnail: thumbnails/paper.png
 ---
 
-+++ {"oxa":"oxa:1Bk7uPlcMuaTyKEshESj/pUjKKutoZngkdiA7AaeU.7"}
++++ {"oxa":"oxa:1Bk7uPlcMuaTyKEshESj/pUjKKutoZngkdiA7AaeU.8"}
 
-In September 2021, a significant jump in seismic activity on the island of La Palma (Canary Islands, Spain) signalled the start of a volcanic crisis that still continues at the time of writing. Earthquake data is continually collected and published by the Instituto Geográphico Nacional (IGN). We have created an accessible dataset from this and completed preliminary data analysis which shows seismicity originating at two distinct depths, consistent with the model of a two reservoir system feeding the currently very active volcano.
+In September 2021, a significant jump in seismic activity on the island of La Palma (Canary Islands, Spain) signaled the start of a volcanic crisis that still continues at the time of writing. Earthquake data is continually collected and published by the Instituto Geográphico Nacional (IGN). We have created an accessible dataset from this and completed preliminary data analysis which shows seismicity originating at two distinct depths, consistent with the model of a two reservoir system feeding the currently very active volcano.
 
-+++ {"oxa":"oxa:1Bk7uPlcMuaTyKEshESj/Sb7tLNwIcBizqIilcjdF.5"}
++++ {"oxa":"oxa:1Bk7uPlcMuaTyKEshESj/Sb7tLNwIcBizqIilcjdF.6"}
 
 # Introduction
 
-La Palma is one of the west most islands in the Volcanic Archipelago of the Canary Islands, a Spanish territory situated is the Atlantic Ocean where at their closest point are 100km from the African coast {numref}`Figure %s <p4bsXV4LbH>`. The island is one of the youngest, remains active and is still in the island forming stage.
+La Palma is one of the west most islands in the Volcanic Archipelago of the Canary Islands, a Spanish territory situated is the Atlantic Ocean where at their closest point are 100km from the African coast {numref}`Figure %s <p4bsXV4LbH>` The island is one of the youngest, remains active and is still in the island forming stage.
 
 ```{figure} images/1Bk7uPlcMuaTyKEshESj-ZRWWy3yER1t7RAAVDLMp-v2.png
 :name: p4bsXV4LbH
+:align: center
+:width: 100%
 
 Map of La Palma in the Canary Islands. Image credit [NordNordWest](https://commons.wikimedia.org/w/index.php?curid=76638603)
 ```
 
 La Palma has been constructed by various phases of volcanism, the most recent and currently active being the *Cumbre Vieja* volcano, a north-south volcanic ridge that constitutes the southern half of the island.
 
-+++ {"oxa":"oxa:1Bk7uPlcMuaTyKEshESj/8ubOyqcjiW7QaP4CtH7j.7"}
++++ {"oxa":"oxa:1Bk7uPlcMuaTyKEshESj/8ubOyqcjiW7QaP4CtH7j.9"}
 
 ## Eruption History
 
@@ -96,6 +105,8 @@ Studies of the magma systems feeding the volcano, such as {cite:p}`article` has 
 
 ```{figure} images/1Bk7uPlcMuaTyKEshESj-9fbGlQTuCZQEBgYcu9Ds-v1.png
 :name: WLhyFr6NCs
+:align: center
+:width: 100%
 
 Proposed model from Marrero et al
 ```
@@ -116,10 +127,7 @@ The dataset was loaded into a Jupyter notebook [visualizaton](oxa:1Bk7uPlcMuaTyK
 
 +++ {"oxa":"oxa:1Bk7uPlcMuaTyKEshESj/Nxqbd8rzD748hYWbNyxX.23"}
 
-```{figure} images/1Bk7uPlcMuaTyKEshESj-Nxqbd8rzD748hYWbNyxX-v23.png
-:name: 1636561434686
-
-A plot of the depth of records seismic events versus time from the start of the seismic crisis on La Palma. Data points are scaled and colored by event magnitude and three distributions can be clearly identified.
+```{mdast} paper.mdast.json#Y2pB2Kv0It
 ```
 
 +++ {"oxa":"oxa:1Bk7uPlcMuaTyKEshESj/S1ETVqEQCAtB7Xi2pn8C.3"}

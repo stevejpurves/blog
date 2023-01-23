@@ -4,6 +4,9 @@
 format: jb-book
 root: paper
 parts:
+  - caption: Resources
+    chapters:
+      - file: seismic-monitoring-stations
   - caption: Interactive
     chapters:
       - file: interactive-plots
@@ -16,7 +19,4 @@ parts:
       - file: visualizaton-figure-creation-seaborn
       - file: interactive-timelines-altair
       - file: plotly
-      - file: screening-update
-      - file: update-compare
-      - file: update-altair
 

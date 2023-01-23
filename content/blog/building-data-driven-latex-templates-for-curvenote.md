@@ -1,6 +1,6 @@
 ---
-title: "Data driven LaTeX templates "
-description: ""
+title: 'Data driven LaTeX templates '
+description: ''
 authors:
   - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
     name: Steve Purves
@@ -8,12 +8,13 @@ authors:
     corresponding: false
     roles: []
     affiliations: []
-date: 2021-10-21T17:57:55.620Z
+date: '2021-10-21T17:57:55.620Z'
 name: building-data-driven-latex-templates-for-curvenote
 oxa: oxa:DOHMeg040aVXqR51yjBy/ea0jxy5eSPndzWVUXhi2
+tags: []
 ---
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/6Ikye3xJxigOKHSr5fcJ.5"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/6Ikye3xJxigOKHSr5fcJ.5","tags":[]}
 
 As a scientific author today you pick your template *before* you start writing: what journal, what thesis template, what conference. If your work gets rejected, needs to be submitted somewhere else, or you want to share in another medium like a blog or presentation: these initial choices hold you back and it takes time and effort to migrate your work. At Curvenote we are flipping this idea: *pick your template last*!
 
@@ -59,7 +60,7 @@ For LaTeX, Pandoc provides a [complete default template](https://github.com/jgm/
 
 Pandoc is of course set up for document conversion, so the starting point for rendering a document is a complete document in another format. For example, a Markdown document, when provided alongside a `yaml` file, containing document metadata, will render a document against the default or a custom template. Pandoc does an exceptional job at this conversion task.
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/BuMJfDRsiRmmP7NiTeMq.4"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/BuMJfDRsiRmmP7NiTeMq.4","tags":[]}
 
 ## Why not Pandoc?
 
@@ -80,7 +81,7 @@ Note: We *are* planning on integrating Pandoc for some of the other conversions 
 
 ````
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/tqWTSHSwhuRSyBDC0f6b.7"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/tqWTSHSwhuRSyBDC0f6b.7","tags":[]}
 
 ## Curvenote LaTeX Templates
 
@@ -130,6 +131,8 @@ This syntax works nicely resulting in templates that look like this:
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-nzLIX3uPEz5NtMZA5cVV-v1.png
 :name: kKScx2RnTR
+:align: center
+:width: 100%
 ```
 
 If you are not familiar with how Jinja templates are constructed their [template designer documentation](https://jinja.palletsprojects.com/en/3.0.x/templates/) is excellent and worth a read. Between the [Jinja docs](https://jinja.palletsprojects.com/en/3.0.x/templates/) and our [README](https://github.com/curvenote/jtex#readme) there is plenty of detailed information on how to construct templates. So we’ll only touch on some of the main points here.
@@ -213,6 +216,8 @@ which when compiled to PDF gives us:
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-243E9z5JBC0nM6Iu1y0r-v1.png
 :name: nVntndoAfb
+:align: center
+:width: 70%
 ```
 
 This is a simple example but what is useful here is the fact that we have a completely free-form templating process that can easily be adapted to suit a particular workflow. To get started with templates using `build-lite` [check the readme](https://github.com/curvenote/jtex#build-lite) for more info. In the future, we will also show how this can be used with Pandoc for document conversion, and then last-mile style choices being templated with `jtex`.
@@ -239,7 +244,7 @@ These files will be used to render a LaTeX document at the `OUTPUT_PATH` with ei
 
 Find out more about the `build` command [in the readme](https://github.com/curvenote/curvenote-template#build).
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/abi4fpgJjXnmY86g8rHQ.6"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/abi4fpgJjXnmY86g8rHQ.6","tags":[]}
 
 ## Curvenote LaTeX Templates
 
@@ -289,12 +294,16 @@ The metadata section defines the template and is largely informational, providin
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-iAEiqvNJivQxQpedNvpu-v1.png
 :name: EXvHpwzofk
+:align: center
+:width: 70%
 ```
 
 The config section splits into four sub sections: `build`, `schema`, `tagged`, `options`.
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-3NSaDp6ZvbQ54cxHT6N8-v1.png
 :name: IpTSB47lQW
+:align: center
+:width: 70%
 ```
 
 #### config.build
@@ -365,6 +374,8 @@ That content will be pulled from the flow and made available to the template in 
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-je8qq2qBDAaEfsVCUMH5-v1.png
 :name: y5zg6gloBF
+:align: center
+:width: 100%
 ```
 
 The configuration for the tagged content allows for a description and a word count (character count coming soon!) which will be shown and used in the Curvenote API. This allows very specific guidance about a particular template’s requirements. A piece of tagged content can also be marked as `required`.
@@ -383,6 +394,8 @@ This allows a template creator to expose features to the end user in Curvenote w
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-kI4EWFI9foDw6y99SJhj-v1.png
 :name: Tc6NjmXMZc
+:align: center
+:width: 70%
 ```
 
 #### config.options
@@ -391,6 +404,8 @@ Similar to tagged content, a template can define a number of options that should
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-IwiplmjMr5AcbFrbNZpx-v1.png
 :name: TnTUWDevLG
+:align: center
+:width: 90%
 ```
 
 Options are specified with a unique ID and description. Options can also be `required` or left as optional and the Curvenote UI will enforce that rule. In addition to booleans, options can be of type: `str`, `choice`, `keywords`, `corresponding_author`.
@@ -399,6 +414,8 @@ Here is an additional example, of how the [AGU2019](https://github.com/curvenote
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-7vTWZLZmFpNUm7X2A6WT-v1.png
 :name: dxiyDCTP9v
+:align: center
+:width: 70%
 ```
 
 ### Document Model
@@ -409,13 +426,15 @@ An example of a document model for the `plain_latex` template [is here](https://
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-0g5dMjLfK7uYktKV2TK8-v1.png
 :name: ooYZmR3NsU
+:align: center
+:width: 90%
 ```
 
 At the root level there are `doc`, `tagged` and `options` sections where the latter two correspond to the respective configuration sections. The `doc` section is set by Curvenote and provides key data fields related to the article itself including the title, authors list and date.
 
 When developing Curvenote templates we can stub out data structures like this in a yaml file and use them with `jtex build` to test our template as we go.
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/1Suv2G4TBk1oMqe6duMd.3"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/1Suv2G4TBk1oMqe6duMd.3","tags":[]}
 
 ## Create a data driven template
 

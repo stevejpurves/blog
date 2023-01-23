@@ -1,6 +1,6 @@
 ---
 title: How to export to PDF & LaTeX using Curvenote
-description: ""
+description: ''
 authors:
   - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
     name: Steve Purves
@@ -8,18 +8,19 @@ authors:
     corresponding: false
     roles: []
     affiliations: []
-date: 2021-10-12T10:47:22.432Z
+date: '2021-10-12T10:47:22.432Z'
 name: configurable-latex-exports
 oxa: oxa:DOHMeg040aVXqR51yjBy/xHpyIUkwwGCC3r5znNoF
+tags: []
 ---
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/4PqdCTBdJNTFA0FCv4UA.4"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/4PqdCTBdJNTFA0FCv4UA.4","tags":[]}
 
 Writing up research for submission to a particular conference, journal, or preprint service is a major task. Researchers need to prepare their hypothesis, methods, data, results, and conclusions to best represent their research, its outcome, and impacts. On top of this, they need to deal with the formatting and layout requirements of the organization where they are publishing that work. The task of formatting and layout is not a core part of research work yet it can be a major effort and time sink because of factors like strict requirements, uncooperative tools, or additional learning curves — like having to learn $\LaTeX$ while *writing in the context of a specific template*.
 
 Formatting and finalizing a publication should be easy and [Curvenote](https://curvenote.com/why) aims to be a writing environment where researchers can move from their day-to-day notes, notebooks, and reports into their manuscripts with a minimum of rework. Curvenote lets you [write a manuscript](https://curvenote.com/for/writing), share it and gather feedback and then export it to multiple different formats. From conference abstract to a preprint through to a journal article, Curvenote aims to let you export your work to the formats you need as your research evolves.
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/gXT81ZLeSGYwmyxH5pxi.4"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/gXT81ZLeSGYwmyxH5pxi.4","tags":[]}
 
 ## Open source LaTeX templates
 
@@ -32,11 +33,13 @@ Still, working with a template, especially larger templates with many features c
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-I2hAANCRy3zsvxrQ25xY-v1.png
 :name: a1242e5a
+:align: center
+:width: 70%
 ```
 
 If you are writing or planning to start a paper, report, or thesis and want to do your writing in Curvenote — you can [open an issue](https://github.com/curvenote/templates/issues) or [pull request](https://github.com/curvenote/templates/pulls) on this repo and we will make sure your template gets integrated.
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/YC7KoWWLqIMoqg90lOM9.4"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/YC7KoWWLqIMoqg90lOM9.4","tags":[]}
 
 ## Export to PDF or $\LaTeX$
 
@@ -44,6 +47,8 @@ Once templates are tested and accepted in [the repository,](https://github.com/c
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-yWfLepiDcUHnK8Lor18w-v4.png
 :name: a08cc284
+:align: center
+:width: 70%
 
 Export from Curvenote - the first step is to select the target LaTeX or PDF and choose the template to use for the layout
 ```
@@ -54,7 +59,7 @@ But that is not our goal!
 
 We want to be able to export submission-ready PDF documents directly from Curvenote — to avoid building $\LaTeX$ locally at all. We’ve made this possible through *Template Options* and *Tagged Blocks*. Setup on a per template basis, these allow you to provide additional information and any specific content required via the user interface during export.
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/wBCNCHUwBpSova9ff7DD.4"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/wBCNCHUwBpSova9ff7DD.4","tags":[]}
 
 ## Template Options
 
@@ -64,11 +69,13 @@ Here’s an example of options for the [AGU 2019 template](https://curvenote.com
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-yt0BZL4jK2SjXDxV3Msz-v1.gif
 :name: a09c5dd6
+:align: center
+:width: 70%
 ```
 
 We are able to proceed once we’ve entered the required information. This template has relatively few options — other templates have more and/or conditional options that only appear based on the value of certain fields, a typical case being additional options for different journals based on the *Journal Name* you select.
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/5kjFX2TqJA07y3OyxaRc.4"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/5kjFX2TqJA07y3OyxaRc.4","tags":[]}
 
 ## Tagged Blocks
 
@@ -85,6 +92,8 @@ We’ve achieved this through the use of the *tags* that are available on any bl
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-OxV1wcJfFoid2rbjCNxn-v1.png
 :name: a81a74a6
+:align: center
+:width: 70%
 ```
 
 This is essentially a summary of the special content requirements of this template along with flags on whether they have been met or not. When integrating templates, we include as much information from the original author guidelines as possible, as show that information here.
@@ -95,6 +104,8 @@ To fix this we head back to our manuscript, select the block containing our abst
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-YKoYsveI091oLgtjF7EO-v1.gif
 :name: a7b08768
+:align: center
+:width: 70%
 ```
 
 Tags can be set to any string we like, in the UI we suggest some of the common tags you’ll find in templates, but any tag you need can be added. (Note that the word Abstract appears as a decoration on the block, that’s a special case as we are still deciding how to best show the block tags while keeping the page uncluttered).
@@ -103,11 +114,13 @@ Now when we head back to export, we can see we’ve provided our abstract and ca
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-HVG2axlvRwbEAfk4gAgl-v1.png
 :name: ad010150
+:align: center
+:width: 70%
 ```
 
 We can of course provide information in any of the optional fields too, and this will be added appropriately, by the template.
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/R5f0Ll9LUgrcctZ6qB1K.4"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/R5f0Ll9LUgrcctZ6qB1K.4","tags":[]}
 
 ## Write once, export to any format
 

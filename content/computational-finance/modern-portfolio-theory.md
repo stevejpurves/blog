@@ -1,9 +1,11 @@
 ---
 title: Efficient Frontier (MPT)
 description: Overview of Modren Portfolio Theory
-date: 2020-12-10T16:29:29.974Z
+date: '2020-12-10T16:29:29.974Z'
 name: modern-portfolio-theory
 oxa: oxa:dvunfvCkr67W5YDXfxGE/vY0gA6N7UwELs2oEHKeu
+tags: []
+thumbnail: thumbnails/modern-portfolio-theory.png
 ---
 
 +++ {"oxa":"oxa:dvunfvCkr67W5YDXfxGE/3B7blqrWAq8Y4Kl1XYl7.7"}

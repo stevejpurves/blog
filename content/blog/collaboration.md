@@ -1,6 +1,6 @@
 ---
 title: Collaboration in Scientific Writing
-description: ""
+description: ''
 authors:
   - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
     name: Steve Purves
@@ -10,12 +10,13 @@ authors:
     roles: []
     affiliations:
       - Curvenote
-date: 2021-09-27T11:21:55.353Z
+date: '2021-09-27T11:21:55.353Z'
 name: collaboration
 oxa: oxa:DOHMeg040aVXqR51yjBy/9xm9sJTC6kGhmHgyydkh
+tags: []
 ---
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/DMKQRaZKb3ElhDzsgBQH.6"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/DMKQRaZKb3ElhDzsgBQH.6","tags":[]}
 
 ## What is Collaboration?
 
@@ -39,7 +40,7 @@ In this post, we talk about some distinct modes of collaboration and the technol
 - Asynchronous co-authoring and review
 - Real-time pairing / simultaneous editing
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/c6474c6uJddODYnA6xqH.7"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/c6474c6uJddODYnA6xqH.7","tags":[]}
 
 ## Gathering feedback
 
@@ -53,16 +54,18 @@ Processing that feedback and incorporating it into the next draft can often requ
 
 Two simple features that are taken for granted in so many apps we use today (just think about how social media works) can completely change this workflow.
 
-- *Create drafts in a shared environment* - Google Docs is a go-to workaround for many people as collaboration is good, but it lacks support for scientific writing, which is [where Curvenote excels](https://curvenote.com/@curvenote/getting-started/writing-with-curvenote).
+- *Create drafts in a shared environment* \- Google Docs is a go-to workaround for many people as collaboration is good, but it lacks support for scientific writing, which is [where Curvenote excels](https://curvenote.com/@curvenote/getting-started/writing-with-curvenote).
 - *Share your supporting information* - To get useful and constructive feedback you need to formulate your “Ask” and provide those notes along with your manuscript. Curvenote projects let you [give your collaborators access](https://curvenote.com/@curvenote/getting-started/collaboration) to multiple documents, such as guidance notes, manuscripts, and supporting materials (e.g., Jupyter notebooks), so everyone is working on the same page, in the same place.
 - *In-place commenting* - Threaded commenting in a manuscript allows feedback to be provided and conversations to happen in-place and right beside the content it refers to. This is the ideal context for feedback; it encourages discussions over duplication and collaborators also get the chance to interact. A solid real-time commenting system with threads, notifications, and resolutions is of real benefit and makes it much easier for the author to gather and incorporate feedback. Everything in one place, everything in context.
 
   ```{figure} images/DOHMeg040aVXqR51yjBy-5ETK8t8lR83uM6yQp68A-v2.gif
   :name: a7ace020
+  :align: center
+  :width: 70%
 
   ```
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/QcvusgKEg9EYE8DlnVQL.7"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/QcvusgKEg9EYE8DlnVQL.7","tags":[]}
 
 ## Asynchronous Coauthoring
 
@@ -78,6 +81,8 @@ A scientific editing environment with clear [integrated version control](https:/
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-ExO9EwRm0zNzu9XDwsmB-v1.png
 :name: a69240e7
+:align: center
+:width: 90%
 ```
 
 A manuscript is started in a shared environment (in Curvenote we call these projects) and authors can collaborate independently: adding blocks of content to the draft. Authors save their blocks as they progress and built-in version control makes it easy to see the progression and changes that people make.
@@ -96,11 +101,13 @@ We prefer the inline style of Google Docs because it is relatively clear to read
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-1QcexRJYv2wP2dFm7hp5-v1.png
 :name: aa54a7a4
+:align: center
+:width: 70%
 ```
 
 We don’t yet have a “suggest changes” feature available in Curvenote, but it’s firmly on our roadmap so watch this space.
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/HM3yH7hx1YSBQnr5S3of.7"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/HM3yH7hx1YSBQnr5S3of.7","tags":[]}
 
 ## Pair Authoring
 
@@ -122,13 +129,15 @@ Often you can also benefit from being on a voice or video call at the same time,
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-cGOSvFHpFFFMuibdzZjp-v2.png
 :name: aeb85fd4
+:align: center
+:width: 70%
 
 Image by Marvin Mayer - <https://unsplash.com/photos/SYTO3xs06fU>
 ```
 
 We have two important features at the top of our roadmap - presence and interactive cursors. If you’ve used Google Docs or other online collaborative editors, you’ll recognize these features. We’re expecting these will improve our real-time collaboration experience - and we’ll incorporate our own flavor of this UX pattern, meaning you’ll see who is actively watching and editing a block as well as seeing their cursor when they have a block in focus, are typing or have made a selection.
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/BdK8zI8xwvKiGvQz7mqP.6"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/BdK8zI8xwvKiGvQz7mqP.6","tags":[]}
 
 ## Collaboration doesn’t stop there
 

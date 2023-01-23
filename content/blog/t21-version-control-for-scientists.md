@@ -1,7 +1,8 @@
 ---
 title: T21 Version Control for Scientists
-description: Version Control for Scientists - some background and an overview of
-  my Transform 2021 Tutorial
+description: >-
+  Version Control for Scientists - some background and an overview of my
+  Transform 2021 Tutorial
 authors:
   - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
     name: Steve Purves
@@ -9,12 +10,14 @@ authors:
     corresponding: false
     roles: []
     affiliations: []
-date: 2021-04-19T09:38:19.728Z
+date: '2021-04-19T09:38:19.728Z'
 name: t21-version-control-for-scientists
 oxa: oxa:DOHMeg040aVXqR51yjBy/EWRLSoFX8YCKauhnw1YS
+tags: []
+thumbnail: thumbnails/t21-version-control-for-scientists.png
 ---
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/rGhErt4nStvNKrnM6hha.1"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/rGhErt4nStvNKrnM6hha.1","tags":[]}
 
 ## Introduction
 
@@ -24,7 +27,7 @@ On Thursday (22nd April) at 11am UTC, I’ll be giving a tutorial on [Version Co
 
 Ahead of then I’d like to set out some background and what I’ll cover in the event.
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/5ZsB4O7dtrfrstT6fTpk.1"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/5ZsB4O7dtrfrstT6fTpk.1","tags":[]}
 
 ## Why scientists need version control
 
@@ -32,7 +35,7 @@ Use data in science is increasing. There is also an increasing need to reliably 
 
 Although by embracing version control scientists not only gain the possibility of implementing reproducible workflows and experiments, they gain a tool that can significantly help with day to day work; providing the confidence to ruthlessly change code, a medium through which to collaborate and share that can boost productivity and save them from losing work.
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/LKpM5hVFDO8OozbrJgI8.1"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/LKpM5hVFDO8OozbrJgI8.1","tags":[]}
 
 ## But version control is difficult
 
@@ -42,7 +45,7 @@ They struggle more when dealing with larger data files or structured data like j
 
 Apart from this scientists often have the huge challenge of learning version control tools in fits and spurts, often getting comfortable enough to be able to pull and push code but not having the chance to learn about fundamentals, or develop good enough mental models of what is going on in tools like `git` to help them navigate problems or use the more advanced features of the tool fully.
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/A35XEYtZ1UlzesP4UtvR.1"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/A35XEYtZ1UlzesP4UtvR.1","tags":[]}
 
 ## What are scientists burning Git Questions?
 
@@ -77,7 +80,7 @@ The responses reflect that people in swung range from git curious, through to pr
   - Squash
   - Editing the git log
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/6EaNrFPnIMKjNnF8QXLf.2"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/6EaNrFPnIMKjNnF8QXLf.2","tags":[]}
 
 ## About the tutorial
 

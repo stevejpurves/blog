@@ -1,6 +1,6 @@
 ---
 title: The Blog
-description: ""
+description: ''
 authors:
   - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
     name: Steve Purves
@@ -8,28 +8,31 @@ authors:
     corresponding: false
     roles: []
     affiliations: []
-date: 2022-04-02T12:51:26.505Z
+date: '2022-04-02T12:51:26.505Z'
 name: the
 oxa: oxa:DOHMeg040aVXqR51yjBy/TrCCobPg8ixxK4VTHEEL
+tags: []
 ---
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/9horiJwx37bYUc8jDiki.13"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/9horiJwx37bYUc8jDiki.13","tags":[]}
 
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-6jk5yc3J3rIqjmObor3v-v1.jpg
 :name: yyt6XS1Xge
+:align: center
+:width: 100%
 
 Image by Christopher Backholm / Agile, CC-BY-4.0
 ```
 
 ---
 
-```{mdast} the.mdast.json#B3yKqMMudN
+```{mdast} the.mdast.json#DcN6yzEp8v
 ```
 
 ---
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/2n0LD4VuXzsBvqsXhTcr.1"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/2n0LD4VuXzsBvqsXhTcr.1","tags":[]}
 
 ~~~{list-table}
 :header-rows: 1

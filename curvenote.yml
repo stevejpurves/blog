@@ -5,7 +5,7 @@ site:
     - stevejpurves.curve.space
     - www.stevejpurves.com
   logo: public/logo.svg
-  logoText: Steve Purves
+  logo_text: Steve Purves
   twitter: stevejpurves
   projects:
     - path: content/blog
@@ -19,7 +19,7 @@ site:
   nav:
     - title: The Blog
       url: /blog
-    - title: Projects
+    - title: Science & Data
       children:
         - title: La Palma Seismicity
           url: /la-palma-earthquakes
@@ -27,6 +27,7 @@ site:
           url: /computational-finance
         - title: Geoscience
           url: /geoscience
+
   actions:
     - title: Learn More
       url: https://docs.curvenote.com/web

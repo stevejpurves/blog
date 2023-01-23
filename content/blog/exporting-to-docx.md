@@ -1,6 +1,6 @@
 ---
 title: Curvenote Microsoft Word Export
-description: ""
+description: ''
 authors:
   - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
     name: Steve Purves
@@ -8,22 +8,23 @@ authors:
     corresponding: false
     roles: []
     affiliations: []
-date: 2021-10-21T17:11:50.605Z
+date: '2021-10-21T17:11:50.605Z'
 name: exporting-to-docx
 oxa: oxa:DOHMeg040aVXqR51yjBy/544kxF9tADUPDVyMYwS2
+tags: []
 ---
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/O0rqTIqak2wT0YH7Ydcx.3"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/O0rqTIqak2wT0YH7Ydcx.3","tags":[]}
 
 ## Word or LaTeX
 
-Microsoft Word (`docx`) or LaTeX is a question that is debated daily in both academic circles and [#AcademicTwitter](https://twitter.com/search?q=%23AcademicTwitter). There are proponents of both schools with various arguments either way — from control and precision to ease of use and shallow learning curves.
+Microsoft Word (`docx`) or LaTeX is a question that is debated daily in both academic circles and [\#AcademicTwitter](https://twitter.com/search?q=%23AcademicTwitter). There are proponents of both schools with various arguments either way — from control and precision to ease of use and shallow learning curves.
 
 Ongoing debate aside, both Word and LaTeX represent the vast majority of formats accepted (or required) for conferences, workshops, and journal or thesis submissions at universities and major academic and professional institutions.
 
 But really your writing and work should be independent of these formats. You should be able to write in an editor made for technical and scientific content, that’s a pleasure to use, and be able to move your writing to any format you need to — when you need to — and that is what we are really interested in at [Curvenote](https://curvenote.com). In addition to our [editor](https://curvenote.dev/), we are building infrastructure to power that interchange, and the `docx` format is our latest export endpoint.
 
-+++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/wy7KRoi5x3UWA82LYPZC.3"}
++++ {"oxa":"oxa:DOHMeg040aVXqR51yjBy/wy7KRoi5x3UWA82LYPZC.3","tags":[]}
 
 ## Export to Word (docx)
 
@@ -35,6 +36,8 @@ We’ve extended our export UI, smartening things up in the process, so export t
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-Zn0tPMSDYdfNY4AryFaY-v3.png
 :name: aa934216
+:align: center
+:width: 70%
 
 Export your paper or report to MS Word’s docx format in a two clicks
 ```
@@ -43,6 +46,8 @@ Export as many times as you like, as you create updated versions of your manuscr
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-JEVeFnWAxFYZcZshoHmb-v2.png
 :name: ae9a675c
+:align: center
+:width: 70%
 
 Any Curvenote article can be exported to multiple formats and once generated files are available for immediate download
 ```
@@ -61,6 +66,8 @@ Publishing online and/or sharing privately with collaborators can be a faster wa
 
 ```{figure} images/DOHMeg040aVXqR51yjBy-MJyOI9Q8OhkYyXMhyw53-v3.png
 :name: a29403cf
+:align: center
+:width: 70%
 
 Generated files are available to your readers on published or public articles
 ```
