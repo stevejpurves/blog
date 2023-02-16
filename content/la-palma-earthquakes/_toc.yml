@@ -2,11 +2,12 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: paper
+root: la-palma-eruption-2022-paper
 parts:
   - caption: Resources
     chapters:
       - file: seismic-monitoring-stations
+      - file: swarm-intensity-pulses
   - caption: Interactive
     chapters:
       - file: interactive-plots
@@ -19,4 +20,6 @@ parts:
       - file: visualizaton-figure-creation-seaborn
       - file: interactive-timelines-altair
       - file: plotly
+      - file: main-figure-involcan
+      - file: main-figure
 

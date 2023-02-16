@@ -18,19 +18,18 @@ project:
       corresponding: true
       email: steve@curvenote.com
       roles:
-        - Conceptualization
         - Investigation
-        - Methodology
-        - Writing – original draft
+        - Project administration
+        - Software
+        - Visualization
       affiliations:
         - Curvenote
     - userId: vKndfPAZO7WeFxLH1GQcpnXPzfH3
       name: Rowan Cockett
       orcid: 0000-0002-7859-8394
       corresponding: false
-      roles:
-        - Writing – review & editing
-        - Validation
+      roles: []
       affiliations:
         - Curvenote
   name: la-palma-earthquakes
+  github: https://github.com/stevejpurves/ign-earthquake-data

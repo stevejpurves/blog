@@ -14,7 +14,7 @@ oxa: oxa:1Bk7uPlcMuaTyKEshESj/smCteUM2sPpNVpkLlSoo
 tags: []
 ---
 
-+++ {"oxa":"oxa:1Bk7uPlcMuaTyKEshESj/Q9EmJSLo7Z0yu8M0CpNC.1"}
++++ {"oxa":"oxa:1Bk7uPlcMuaTyKEshESj/Q9EmJSLo7Z0yu8M0CpNC.1","tags":[]}
 
 The [La Palma Seismicity 2021](oxa:1Bk7uPlcMuaTyKEshESj/7lITJLg3LX0T0h3VVmAp "La Palma Seismicity 2021") paper was written as part of a webinar given on Nov 10, 2021. You can watch the recording of that webinar that gives an overview of the study, how the [visualizaton](oxa:1Bk7uPlcMuaTyKEshESj/Z3pjZzJ7KnN6TVbWndBR "visualizaton") notebook was run and saved and how the paper was finalised during the event.
 

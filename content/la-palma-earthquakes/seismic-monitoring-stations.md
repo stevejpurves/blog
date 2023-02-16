@@ -3,19 +3,6 @@ title: Seismic Monitoring Stations
 description: >-
   A summary of the seismic montioring stations installed on the island of La
   Palma
-authors:
-  - userId: fI5cWFyZPEZCTpIHdqX5H8OU3Iv1
-    name: Steve Purves
-    orcid: 0000-0002-0760-5497
-    corresponding: true
-    email: steve@curvenote.com
-    roles:
-      - Conceptualization
-      - Investigation
-      - Methodology
-      - Writing – original draft
-    affiliations:
-      - Curvenote
 date: '2022-08-05T10:23:39.933Z'
 name: seismic-monitoring-stations
 oxa: oxa:1Bk7uPlcMuaTyKEshESj/xRRy3aRWFPoVnbBtIQKy
@@ -24,7 +11,7 @@ tags: []
 thumbnail: thumbnails/seismic-monitoring-stations.png
 ---
 
-+++ {"oxa":"oxa:1Bk7uPlcMuaTyKEshESj/1R5ZEOffUEknyLjeOUR2.2"}
++++ {"oxa":"oxa:1Bk7uPlcMuaTyKEshESj/1R5ZEOffUEknyLjeOUR2.3","tags":[]}
 
 ## Monitoring La Palma
 
@@ -42,7 +29,7 @@ Locations of monitoring stations on the island of La Palma - including locations
 
 ## Seismic Monitoring Stations
 
-The active seismic monitoring stations have been installed over the period 2009 to 2021. As of Aug 5, 2022 there are 12 active stations and 4 decommissioned stations.
+The active seismic monitoring stations have been installed over the period 2009 to 2021. As of Aug 5, 2022 there are 12 active stations ({numref}`Table %s <qejnsE8UVJ>`) and 4 decommissioned stations ({numref}`Table %s <KG7lpnmISz>`).
 
 ~~~{list-table} Active seismic monitoring stations on La Palma
 :header-rows: 1
